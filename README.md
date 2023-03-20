@@ -1,4 +1,4 @@
-###React App for a little demo game.
+### React App for a little demo game.
 
 ### `npm start`
 
